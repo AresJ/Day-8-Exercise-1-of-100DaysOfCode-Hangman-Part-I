@@ -1,6 +1,7 @@
 #Write your code below this line 👇
-import Math
-def print_calc(test_h, test_w, coverage):
+import math
+def print_calc(height, width, cover):
+  return math.ceil(results = (height * width)/cover)))
   
 #Write your code above this line 👆
 # Define a function called paint_calc() so that the code below works.
