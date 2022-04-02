@@ -1,7 +1,8 @@
 #Write your code below this line 👇
 import math
 def paint_calc(height, width, cover):
-  return math.ceil(results = ((height * width)/cover))
+  results = ((height * width)/cover)
+  print(f"You'll need {math.ceil(results)} of paint to complete this wall.")
   
 #Write your code above this line 👆
 # Define a function called paint_calc() so that the code below works.
